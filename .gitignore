@@ -1,0 +1,29 @@
+# Entorno virtual
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs y salidas de entrenamiento
+*.log
+tensorboard/
+*/tensorboard/*
+*.tfevents.*
+
+# Modelos entrenados (Stable Baselines 3, etc.)
+*.zip
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Directorios de datos/resultados si se usan
+/data/
+/results/
+/output/
+/checkpoints/

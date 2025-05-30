@@ -1,0 +1,18 @@
+## REQUIRES PYTHON 3.8
+# General dependencies
+numpy
+matplotlib
+# Learning framework
+torch
+torchvision
+stable-baselines3[extra]
+# Environment dependencies
+gymnasium==0.28.1
+nes-py==8.2.1
+gym-super-mario-bros==7.4.0
+# Video dependencies
+opencv-python
+ipykernel
+# For logging
+protobuf==3.19.0
+
