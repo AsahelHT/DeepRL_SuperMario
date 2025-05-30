@@ -27,3 +27,17 @@ tensorboard/
 /results/
 /output/
 /checkpoints/
+
+# Archivos temporales de Microsoft Word
+~$*
+*.tmp
+*.temp
+*.wbk
+*.asd
+
+# Archivos de Word
+*.doc
+*.docx
+*.dot
+*.dotx
+
