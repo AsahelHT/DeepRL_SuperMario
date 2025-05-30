@@ -87,6 +87,6 @@ El notebook se organiza en **cuatro secciones principales**:
 
 ## ✨ Autoría
 
-Desarrollado como práctica académica. Recomendado ver el código completo y ejecutar las pruebas para comprender a fondo el aprendizaje por refuerzo aplicado a videojuegos clásicos.
+Desarrollado como práctica académica por Asahel Hernández Torné. Recomendado ver el código completo y ejecutar las pruebas para comprender a fondo el aprendizaje por refuerzo aplicado a videojuegos clásicos.
 
 ---
