@@ -1,12 +1,14 @@
 
-# 🕹️👾 Reinforcement Learning aplicado a *Super Mario Bros* 👾🕹️
+# 🕹️👾 Reinforcement Learning y *SuperMario Bros* 👾🕹️
 
 ---
 
-## 🎯 Presentación de la práctica
+## 🎯 Presentación del proyecto
 
-Se entrega un **notebook modificado** para facilitar la comprensión y ejecución de la práctica desarrollada.  
-Este cuaderno ha sido adaptado eliminando las celdas de los tutoriales de ejemplo y añadiendo nuevas secciones para mejorar el flujo de trabajo y el entendimiento del código.
+Este proyecto implementa un entorno de entrenamiento y evaluación de agentes RL para jugar al juego SuperMario Bros.
+Los dos **notebooks** disponibles se corresponden con los dos agentes entrenados que consiguen superar el primer nivel. 
+Se suben ambos para poder observar los **outputs** de las celdas tras el entrenamiento.
+
 
 ---
 
@@ -87,6 +89,6 @@ El notebook se organiza en **cuatro secciones principales**:
 
 ## ✨ Autoría
 
-Desarrollado como práctica académica por Asahel Hernández Torné. Recomendado ver el código completo y ejecutar las pruebas para comprender a fondo el aprendizaje por refuerzo aplicado a videojuegos clásicos.
+Desarrollado como práctica académica por **Asahel Hernández Torné**. Recomendado ver el código completo y ejecutar las pruebas para comprender a fondo el aprendizaje por refuerzo aplicado a videojuegos clásicos.
 
 ---
