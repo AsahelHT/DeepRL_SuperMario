@@ -12,8 +12,6 @@ tensorboard/
 */tensorboard/*
 *.tfevents.*
 
-# Modelos entrenados (Stable Baselines 3, etc.)
-*.zip
 
 # Archivos de configuración del editor
 .vscode/
@@ -27,6 +25,8 @@ tensorboard/
 /results/
 /output/
 /checkpoints/
+/mario_monitor_dir/
+/mario_models/
 
 # Archivos temporales de Microsoft Word
 ~$*
