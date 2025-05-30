@@ -17,7 +17,7 @@ Se suben ambos para poder observar los **outputs** de las celdas tras el entrena
 <figure style="text-align: center; margin-top: 20px;">
   <img src="./media/gifs/PPO_CNN_3005_3.gif" alt="Mejor entrenamiento logrado" width="350">
   <figcaption style="font-style: italic; color: #555; margin-top: 10px;">
-    🏆 Mejor entrenamiento logrado: <strong>PPO_CNN_3005_3</strong>
+    🏆 Mejor agente entrenado: <strong>PPO_CNN_3005_3</strong>
   </figcaption>
 </figure>
 
